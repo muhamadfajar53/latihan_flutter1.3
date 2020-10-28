@@ -1,16 +1,6 @@
 # latihan_flutter_1_2
 
-A new Flutter project.
+Pemgograman Mboile 2
+Muhamad Fajar - 18111216 - TIF RM CID-A 18
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Stateful Widget
